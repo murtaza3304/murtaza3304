@@ -2,21 +2,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 ![banner](https://github.com/user-attachments/assets/6a425c1f-92d7-492c-84c2-caf60abab324)
 <h1 align="center">Hi 👋, I'm Ali Murtaza</h1>
 <h3 align="center">A passionate React Native developer from Pakistan</h3>
-
-<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtaza3304&label=Profile%20views&color=0e75b6&style=flat" alt="murtaza3304" /> </p>
 
