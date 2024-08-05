@@ -1,4 +1,18 @@
-![logo](https://github.com/murtaza3304/murtaza3304/blob/main/william-hook-9e9PD9blAto-unsplash.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![banner](https://github.com/user-attachments/assets/6a425c1f-92d7-492c-84c2-caf60abab324)
 <h1 align="center">Hi 👋, I'm Ali Murtaza</h1>
 <h3 align="center">A passionate React Native developer from Pakistan</h3>
 
